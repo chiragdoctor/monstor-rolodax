@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/monstor-rolodox/static/css/main.09a10777.chunk.css",
-    "main.js": "/monstor-rolodox/static/js/main.474616ab.chunk.js",
-    "main.js.map": "/monstor-rolodox/static/js/main.474616ab.chunk.js.map",
-    "runtime-main.js": "/monstor-rolodox/static/js/runtime-main.b6ef3443.js",
-    "runtime-main.js.map": "/monstor-rolodox/static/js/runtime-main.b6ef3443.js.map",
-    "static/js/2.38a10f14.chunk.js": "/monstor-rolodox/static/js/2.38a10f14.chunk.js",
-    "static/js/2.38a10f14.chunk.js.map": "/monstor-rolodox/static/js/2.38a10f14.chunk.js.map",
-    "index.html": "/monstor-rolodox/index.html",
-    "precache-manifest.8462a895dc80311e423b1ce93bfa2002.js": "/monstor-rolodox/precache-manifest.8462a895dc80311e423b1ce93bfa2002.js",
-    "service-worker.js": "/monstor-rolodox/service-worker.js",
-    "static/css/main.09a10777.chunk.css.map": "/monstor-rolodox/static/css/main.09a10777.chunk.css.map",
-    "static/js/2.38a10f14.chunk.js.LICENSE.txt": "/monstor-rolodox/static/js/2.38a10f14.chunk.js.LICENSE.txt"
+    "main.css": "/monstor-rolodax/static/css/main.09a10777.chunk.css",
+    "main.js": "/monstor-rolodax/static/js/main.de4845a2.chunk.js",
+    "main.js.map": "/monstor-rolodax/static/js/main.de4845a2.chunk.js.map",
+    "runtime-main.js": "/monstor-rolodax/static/js/runtime-main.9c44b387.js",
+    "runtime-main.js.map": "/monstor-rolodax/static/js/runtime-main.9c44b387.js.map",
+    "static/js/2.38a10f14.chunk.js": "/monstor-rolodax/static/js/2.38a10f14.chunk.js",
+    "static/js/2.38a10f14.chunk.js.map": "/monstor-rolodax/static/js/2.38a10f14.chunk.js.map",
+    "index.html": "/monstor-rolodax/index.html",
+    "precache-manifest.eca22c1dec9cba68a6c4e33b57266943.js": "/monstor-rolodax/precache-manifest.eca22c1dec9cba68a6c4e33b57266943.js",
+    "service-worker.js": "/monstor-rolodax/service-worker.js",
+    "static/css/main.09a10777.chunk.css.map": "/monstor-rolodax/static/css/main.09a10777.chunk.css.map",
+    "static/js/2.38a10f14.chunk.js.LICENSE.txt": "/monstor-rolodax/static/js/2.38a10f14.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6ef3443.js",
+    "static/js/runtime-main.9c44b387.js",
     "static/js/2.38a10f14.chunk.js",
     "static/css/main.09a10777.chunk.css",
-    "static/js/main.474616ab.chunk.js"
+    "static/js/main.de4845a2.chunk.js"
   ]
 }
