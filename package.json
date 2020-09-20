@@ -2,7 +2,7 @@
   "name": "monstors-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chiragdoctor.github.io/monstor-rolodox",
+  "homepage": "https://chiragdoctor.github.io/monstor-rolodax",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
