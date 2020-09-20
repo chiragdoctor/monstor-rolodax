@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsotor-rolodox/static/css/main.09a10777.chunk.css",
+    "main.js": "/monsotor-rolodox/static/js/main.d08a842d.chunk.js",
+    "main.js.map": "/monsotor-rolodox/static/js/main.d08a842d.chunk.js.map",
+    "runtime-main.js": "/monsotor-rolodox/static/js/runtime-main.a74067d9.js",
+    "runtime-main.js.map": "/monsotor-rolodox/static/js/runtime-main.a74067d9.js.map",
+    "static/js/2.38a10f14.chunk.js": "/monsotor-rolodox/static/js/2.38a10f14.chunk.js",
+    "static/js/2.38a10f14.chunk.js.map": "/monsotor-rolodox/static/js/2.38a10f14.chunk.js.map",
+    "index.html": "/monsotor-rolodox/index.html",
+    "precache-manifest.092d934340b5b443c3d2dc773084600b.js": "/monsotor-rolodox/precache-manifest.092d934340b5b443c3d2dc773084600b.js",
+    "service-worker.js": "/monsotor-rolodox/service-worker.js",
+    "static/css/main.09a10777.chunk.css.map": "/monsotor-rolodox/static/css/main.09a10777.chunk.css.map",
+    "static/js/2.38a10f14.chunk.js.LICENSE.txt": "/monsotor-rolodox/static/js/2.38a10f14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a74067d9.js",
+    "static/js/2.38a10f14.chunk.js",
+    "static/css/main.09a10777.chunk.css",
+    "static/js/main.d08a842d.chunk.js"
+  ]
+}
